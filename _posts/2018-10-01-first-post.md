@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll!"
+title: "파이썬과 데이터 사이언스"
 date: 2018-10-01 09:51:28 -0400
 categories: python update
 ---
